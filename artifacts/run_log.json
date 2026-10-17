@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "account_id": 1,
+    "action": "register",
+    "detail": "Idempotent registration; no Instagram signup performed",
+    "at": "2026-10-17T11:32:05.969673+00:00"
+  },
+  {
+    "id": 2,
+    "account_id": 1,
+    "action": "account_updated",
+    "detail": "Fields updated: status",
+    "at": "2026-10-17T11:32:06.001028+00:00"
+  },
+  {
+    "id": 3,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "review_profile task #1 owner=Aisha",
+    "at": "2026-10-17T11:32:06.037383+00:00"
+  },
+  {
+    "id": 4,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "confirm_2fa task #2 owner=Aisha",
+    "at": "2026-10-17T11:32:06.072055+00:00"
+  },
+  {
+    "id": 5,
+    "account_id": 2,
+    "action": "register",
+    "detail": "Idempotent registration; no Instagram signup performed",
+    "at": "2026-10-17T11:32:06.104616+00:00"
+  },
+  {
+    "id": 6,
+    "account_id": 2,
+    "action": "account_updated",
+    "detail": "Fields updated: status",
+    "at": "2026-10-17T11:32:06.134971+00:00"
+  },
+  {
+    "id": 7,
+    "account_id": 2,
+    "action": "task_created",
+    "detail": "review_profile task #3 owner=Rahul",
+    "at": "2026-10-17T11:32:06.170852+00:00"
+  },
+  {
+    "id": 8,
+    "account_id": 2,
+    "action": "task_created",
+    "detail": "confirm_2fa task #4 owner=Rahul",
+    "at": "2026-10-17T11:32:06.206000+00:00"
+  },
+  {
+    "id": 9,
+    "account_id": 3,
+    "action": "register",
+    "detail": "Idempotent registration; no Instagram signup performed",
+    "at": "2026-10-17T11:32:06.237193+00:00"
+  },
+  {
+    "id": 10,
+    "account_id": 3,
+    "action": "account_updated",
+    "detail": "Fields updated: status",
+    "at": "2026-10-17T11:32:06.260743+00:00"
+  },
+  {
+    "id": 11,
+    "account_id": 3,
+    "action": "task_created",
+    "detail": "review_profile task #5 owner=Priya",
+    "at": "2026-10-17T11:32:06.302702+00:00"
+  },
+  {
+    "id": 12,
+    "account_id": 3,
+    "action": "task_created",
+    "detail": "confirm_2fa task #6 owner=Priya",
+    "at": "2026-10-17T11:32:06.337794+00:00"
+  },
+  {
+    "id": 13,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "audit_missing_2fa task #7 owner=Aisha",
+    "at": "2026-10-17T11:32:34.092585+00:00"
+  },
+  {
+    "id": 14,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "audit_missing_backup_codes task #8 owner=Aisha",
+    "at": "2026-10-17T11:32:34.127349+00:00"
+  },
+  {
+    "id": 15,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "audit_missing_password_vault_ref task #9 owner=Aisha",
+    "at": "2026-10-17T11:32:34.161222+00:00"
+  },
+  {
+    "id": 16,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "audit_missing_recovery_email task #10 owner=Aisha",
+    "at": "2026-10-17T11:32:34.196030+00:00"
+  },
+  {
+    "id": 17,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "audit_missing_recovery_phone task #11 owner=Aisha",
+    "at": "2026-10-17T11:32:34.231773+00:00"
+  },
+  {
+    "id": 18,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "audit_stale_access_verification task #12 owner=Aisha",
+    "at": "2026-10-17T11:32:34.267350+00:00"
+  },
+  {
+    "id": 19,
+    "account_id": 2,
+    "action": "task_created",
+    "detail": "audit_missing_2fa task #13 owner=Rahul",
+    "at": "2026-10-17T11:32:34.300685+00:00"
+  },
+  {
+    "id": 20,
+    "account_id": 2,
+    "action": "task_created",
+    "detail": "audit_missing_backup_codes task #14 owner=Rahul",
+    "at": "2026-10-17T11:32:34.336481+00:00"
+  },
+  {
+    "id": 21,
+    "account_id": 2,
+    "action": "task_created",
+    "detail": "audit_missing_password_vault_ref task #15 owner=Rahul",
+    "at": "2026-10-17T11:32:34.371906+00:00"
+  },
+  {
+    "id": 22,
+    "account_id": 2,
+    "action": "task_created",
+    "detail": "audit_missing_recovery_email task #16 owner=Rahul",
+    "at": "2026-10-17T11:32:34.408277+00:00"
+  },
+  {
+    "id": 23,
+    "account_id": 2,
+    "action": "task_created",
+    "detail": "audit_missing_recovery_phone task #17 owner=Rahul",
+    "at": "2026-10-17T11:32:34.443984+00:00"
+  },
+  {
+    "id": 24,
+    "account_id": 2,
+    "action": "task_created",
+    "detail": "audit_stale_access_verification task #18 owner=Rahul",
+    "at": "2026-10-17T11:32:34.482208+00:00"
+  },
+  {
+    "id": 25,
+    "account_id": 3,
+    "action": "task_created",
+    "detail": "audit_missing_2fa task #19 owner=Priya",
+    "at": "2026-10-17T11:32:34.520329+00:00"
+  },
+  {
+    "id": 26,
+    "account_id": 3,
+    "action": "task_created",
+    "detail": "audit_missing_backup_codes task #20 owner=Priya",
+    "at": "2026-10-17T11:32:34.558401+00:00"
+  },
+  {
+    "id": 27,
+    "account_id": 3,
+    "action": "task_created",
+    "detail": "audit_missing_password_vault_ref task #21 owner=Priya",
+    "at": "2026-10-17T11:32:34.597624+00:00"
+  },
+  {
+    "id": 28,
+    "account_id": 3,
+    "action": "task_created",
+    "detail": "audit_missing_recovery_email task #22 owner=Priya",
+    "at": "2026-10-17T11:32:34.636710+00:00"
+  },
+  {
+    "id": 29,
+    "account_id": 3,
+    "action": "task_created",
+    "detail": "audit_missing_recovery_phone task #23 owner=Priya",
+    "at": "2026-10-17T11:32:34.675691+00:00"
+  },
+  {
+    "id": 30,
+    "account_id": 3,
+    "action": "task_created",
+    "detail": "audit_stale_access_verification task #24 owner=Priya",
+    "at": "2026-10-17T11:32:34.711157+00:00"
+  }
+]
