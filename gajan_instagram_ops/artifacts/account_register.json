@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "brand": "DEMO_ONLY",
+    "handle": null,
+    "owner": "test_ops",
+    "status": "planned",
+    "email": null,
+    "phone": null,
+    "two_factor": null,
+    "vault_password_ref": null,
+    "vault_backup_ref": null,
+    "profile_name": null,
+    "bio": null,
+    "link": null,
+    "category": null,
+    "image_ref": null,
+    "meta_business": null,
+    "people_roles": "{}",
+    "blockers": "[]",
+    "last_verified": null,
+    "created": "2026-10-16T09:44:39.207869+00:00"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "account_id": 1,
+    "brand": "DEMO_ONLY",
+    "finding": "missing_2fa",
+    "verification": "unverified",
+    "status": "open"
+  },
+  {
+    "account_id": 1,
+    "brand": "DEMO_ONLY",
+    "finding": "missing_backup_codes",
+    "verification": "unverified",
+    "status": "open"
+  },
+  {
+    "account_id": 1,
+    "brand": "DEMO_ONLY",
+    "finding": "missing_password_vault_ref",
+    "verification": "unverified",
+    "status": "open"
+  },
+  {
+    "account_id": 1,
+    "brand": "DEMO_ONLY",
+    "finding": "missing_recovery_email",
+    "verification": "unverified",
+    "status": "open"
+  },
+  {
+    "account_id": 1,
+    "brand": "DEMO_ONLY",
+    "finding": "missing_recovery_phone",
+    "verification": "unverified",
+    "status": "open"
+  },
+  {
+    "account_id": 1,
+    "brand": "DEMO_ONLY",
+    "finding": "stale_access_verification",
+    "verification": "unverified",
+    "status": "open"
+  }
+]

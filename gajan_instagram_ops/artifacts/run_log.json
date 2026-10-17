@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "account_id": 1,
+    "action": "register",
+    "detail": "Idempotent registration; no Instagram signup performed",
+    "at": "2026-10-16T09:44:39.208231+00:00"
+  },
+  {
+    "id": 2,
+    "account_id": 1,
+    "action": "task_created",
+    "detail": "instagram_signup_verification task #1 owner=test_ops",
+    "at": "2026-10-16T09:44:40.155298+00:00"
+  }
+]
